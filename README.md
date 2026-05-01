@@ -20,3 +20,7 @@ This project was done in the last year of my degree as my Final Year Project (FY
 
 This project was done on excel to strengthen my excel skills in data analytics field.
 
+* This project include data cleaning and data visualization with dashboard and pivot table.
+* This project also come out with 3 insights, so that a company can make a better decision making.
+
+## Sales Chart 
