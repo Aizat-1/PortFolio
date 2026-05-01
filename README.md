@@ -16,11 +16,12 @@ This project was done in the last year of my degree as my Final Year Project (FY
 ![](images/image2.jpg)
 
 
-# [Project 2: Data Analyzation for Digital Product & Furniture Sales](https://github.com/Aizat-1/PortFolio/blob/249bbd1701e5d68cc0b2d5d8daacf03260e96750/Dashboard%20Tech.xlsx)
+# [Project 2: Data Analysis for Digital Product & Furniture Sales](https://github.com/Aizat-1/PortFolio/blob/249bbd1701e5d68cc0b2d5d8daacf03260e96750/Dashboard%20Tech.xlsx)
 
-This project was done on excel to strengthen my excel skills in data analytics field.
+This project was done on Excel to strengthen my Excel skills in the data analytics field.
 
-* This project include data cleaning and data visualization with dashboard and pivot table.
-* This project also come out with 3 insights, so that a company can make a better decision making.
+* This project includes data cleaning and data visualisation with a dashboard and pivot table.
+* This project also comes out with 3 insights, so that a company can make better decisions.
 
 ## Sales Chart 
+![]()
