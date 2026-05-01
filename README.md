@@ -11,3 +11,6 @@ This project was done in the last year of my degree as my Final Year Project (FY
 
 ## Overview of the System Architecture
 ![](images/image1.jpg)
+
+## Example of the interface of the smart lock apps
+![]()
