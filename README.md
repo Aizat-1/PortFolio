@@ -23,5 +23,20 @@ This project was done on Excel to strengthen my Excel skills in the data analyti
 * This project includes data cleaning and data visualisation with a dashboard and pivot table.
 * This project also comes out with 3 insights, so that a company can make better decisions.
 
-## Sales Chart 
-![]()
+## Highest Revenue Chart 
+![](images/image_2026-05-02_023247174.png)
+
+Insight: Laptops generated the highest revenue at $64,800, accounting for nearly 65% of total sales.
+
+
+## Daily Revenue Trend Chart
+![](images/image_2026-05-02_023308218.png)
+
+Insight: Daily revenue shows an upward trend from January to 
+February, with peak sales on February 20 ($10,400).
+
+
+## Highest Revenue by Category Chart
+![](images/image_2026-05-02_023326584.png)
+
+Insight: Electronics category dominated with approximately  82.3% of total revenue compared to 17.7% for Furniture.
