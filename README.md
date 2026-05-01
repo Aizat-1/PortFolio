@@ -16,4 +16,4 @@ This project was done in the last year of my degree as my Final Year Project (FY
 ![](images/image2.jpg)
 
 
-# [Project 2: Data Analyzation for Digital Product & Furniture Sales]
+# [Project 2: Data Analyzation for Digital Product & Furniture Sales](https://github.com/Aizat-1/PortFolio/blob/249bbd1701e5d68cc0b2d5d8daacf03260e96750/Dashboard%20Tech.xlsx)
