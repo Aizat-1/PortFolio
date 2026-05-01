@@ -1,6 +1,6 @@
 # Aizat's PortFolio
 
-# [Project 1: Smart Lock for College Dormitory](https://github.com/RonitMalik/Movie-Recommendation-System-)
+# [Project 1: Smart Lock for College Dormitory]
 
 This project was done in the last year of my degree as my Final Year Project (FYP), and I completed my thesis for it.
 
