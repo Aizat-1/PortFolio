@@ -10,4 +10,4 @@ This project was done in the last year of my degree as my Final Year Project (FY
 * The Project Write-up is on. [Google Drive](https://drive.google.com/drive/u/0/folders/1Ji4Nwgbun82o7UC3q4NQHcKVIgrBwR9-)
 
 ## Overview of the System Architecture
-![](images/images%201.jpg)
+![](images/)
