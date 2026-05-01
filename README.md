@@ -14,3 +14,6 @@ This project was done in the last year of my degree as my Final Year Project (FY
 
 ## Example of the interface for the smart lock apps
 ![](images/image2.jpg)
+
+
+# [Project 2: Data Analyzation for Digital Product & Furniture Sales]
